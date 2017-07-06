@@ -10,9 +10,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-deps": "^4.6.0",
     "cross-spawn": "^5.1.0",
-    "elm-test": "^0.18.7"
+    "elm-test": "^0.18.7",
   },
   "package-deps": [
     "linter"
