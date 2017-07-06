@@ -1,7 +1,7 @@
 {
   "name": "atom-elm-test",
   "main": "./lib/atom-elm-test",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Run elm-test tests and show results in Atom Linter",
   "keywords": [],
   "repository": "https://github.com/humio/atom-elm-test",
