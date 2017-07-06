@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "cross-spawn": "^5.1.0",
-    "elm-test": "^0.18.7",
+    "elm-test": "^0.18.7"
   },
   "package-deps": [
     "linter"
